@@ -1,6 +1,7 @@
 package pkgHelper;
 
 import java.util.Arrays;
+// Seeing if this updates to github
 
 public class LatinSquare {
 
